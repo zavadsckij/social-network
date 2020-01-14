@@ -1,0 +1,17 @@
+
+
+.errorField{
+    border: 2px solid red;
+}
+
+
+.errorMessage{
+    color:red;
+
+}
+
+.errorForm{
+    border: 2px solid rgb(189, 12, 94);
+    color:rgb(189, 12, 94);
+    width: 100%;
+}

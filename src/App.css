@@ -1,0 +1,16 @@
+
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.change{
+    width: 70%;
+    background: #1b1e21;
+}
+
+
+
+

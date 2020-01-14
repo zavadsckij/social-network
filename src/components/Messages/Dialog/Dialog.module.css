@@ -1,0 +1,19 @@
+.dialogName{
+    color: black;
+    text-decoration: none;
+}
+.active{
+    color: gold;
+}
+.dialogImg{
+    width:50px;
+    border-radius: 50%;
+    background: #fff;
+}
+.dialog{
+    border: 2px solid rgb(218, 86, 9);
+    margin:0.5em;
+    padding:.3em;
+    background: rgb(92, 201, 205);
+    
+}

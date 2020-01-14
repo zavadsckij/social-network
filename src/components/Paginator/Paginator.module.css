@@ -1,0 +1,33 @@
+.pages{
+border: 1px solid #000;
+width: 250px;
+display: inline-block;
+}
+
+
+
+.hidden{
+    visibility: hidden;
+    width:10%;
+}
+.shown{
+    visibility: visible;
+    width:10%;
+}
+
+.linkedPage{
+    width: 9%;
+    border:1px solid #ccc;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+}
+.page{
+    width: 9%;
+    border:1px solid #ccc;
+    display: inline-block;
+    text-align: center;
+}
+.button{
+    width:10%;
+}

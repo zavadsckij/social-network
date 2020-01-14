@@ -1,0 +1,22 @@
+.messages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.messages>div{
+    margin: 1em 0;
+}
+.dialogs{
+    width: 30%;
+    color:black
+    
+}
+.dialogsItems{
+    width: 65%;
+}
+.messagesData{
+    margin-bottom: 1em;
+}
+
+
+

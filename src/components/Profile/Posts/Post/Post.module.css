@@ -1,0 +1,10 @@
+.post img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.post{
+    background: #ccc;
+    border: 2px solid black;
+    margin-top: .3em;
+}

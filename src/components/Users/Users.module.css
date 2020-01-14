@@ -1,0 +1,53 @@
+.userImg {
+  width: 30%;
+  border-radius: 50%;
+  margin-left: 35%;
+  margin-bottom: 0.5em;
+  margin-top: 0.2em;
+}
+
+.linked {
+  font-weight: bold;
+  cursor: pointer;
+  color: gold;
+  font-style: italic;
+}
+
+.user {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid gold;
+  border-radius: 1em;
+  padding: 1em;
+  margin-bottom: 0.5em;
+  justify-content: space-around;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.userSubscribe {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 2px solid silver;
+  border-radius: 1em;
+  background: rgb(219, 165, 64);
+}
+.userSubscribe > button {
+  width: 30%;
+  border-radius: 1em;
+  margin-left: 35%;
+  margin-bottom: 0.2em;
+}
+.userInfo {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid silver;
+    border-radius: 1em;
+    background: rgb(219, 165, 64);
+    color:#fff;
+    padding: .5em;
+}
